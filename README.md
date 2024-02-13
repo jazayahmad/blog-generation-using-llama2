@@ -12,7 +12,7 @@ This segment focuses on the practical implementation aspect of the project. We d
 * streamlit
 
 #### How UI looks
-![Alt text](ui_llama2.png)
+![Alt text](streamlitui_llama2.png)
 
 ### Key Features of the Application
 
